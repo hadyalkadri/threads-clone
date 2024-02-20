@@ -1,0 +1,5 @@
+to create a new react native app using expo:
+
+npx create-expo-app . <<<Here instead of period, add folder name>>>
+
+this app use React-native, expo for simulating code or viewing through phone, and typescript for the code.
